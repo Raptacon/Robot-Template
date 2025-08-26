@@ -1,0 +1,15 @@
+cryptography==44.0.1
+pyflakes
+py2app
+macholib
+modulegraph
+flake8
+coverage
+wheel
+numpy
+robotpy[all]==2025.*
+photonlibpy
+pyntcore==2025.*
+
+
+raptacon3200>=2025.0.1
